@@ -1,5 +1,6 @@
 ## Journal article
 <a href="https://zenodo.org/records/10904539">Zenodo</a>
+<br>
 <a href="https://revista.fateczl.edu.br/index.php/engetec_revista/article/view/1">Engetec</a>
 
 ## What is AR-Pin?
